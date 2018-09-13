@@ -3,17 +3,11 @@
 #                         code is not executed - Useful for comments
 
 floating point            number = number with decimals (e.g. 4.0)
-
-=                          assign value to a variable
-
-==                       tests whether two things have the same value
-
-;                          concatenate different lines in one
-
-round()               round a floating point number
-
-,                           keep code on the same line
-
+=                         assign value to a variable
+==                        tests whether two things have the same value
+;                         concatenate different lines in one
+round()                   round a floating point number
+,                         keep code on the same line
 """                       print all the text between the two """ (unlimited)
 
 
