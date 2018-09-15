@@ -1,6 +1,7 @@
 # Learn Python the Hard Way - Solutions
 
 My own solutions to the exercises given by Zed Shaw in its introductory book to Python: [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/).  
+
 Comments and feedback always welcome. 
 
 ## Topics
