@@ -1,4 +1,4 @@
-## Animal is-a object (yes, sort of confusing)
+## Animal is-a object
 class Animal(object):
 
     def __init__(self, color):
